@@ -8,3 +8,8 @@ hihihi
 hehehe
 hchchchc
 kakaka
+yellow
+black
+red
+blue
+green

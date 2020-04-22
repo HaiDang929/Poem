@@ -13,3 +13,8 @@ black
 red
 blue
 green
+lily 
+jackson
+brain
+bradon
+gucci

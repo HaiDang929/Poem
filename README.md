@@ -18,9 +18,19 @@ jackson
 brain
 bradon
 gucci
-hey ho hey
+12
+23
+34
+45
+56
+67
+78
+89
+9
+y ho hey
 ha 
 ni 
 nk 
 ml 
 as
+

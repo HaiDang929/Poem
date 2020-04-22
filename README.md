@@ -18,3 +18,9 @@ jackson
 brain
 bradon
 gucci
+hey ho hey
+ha 
+ni 
+nk 
+ml 
+as

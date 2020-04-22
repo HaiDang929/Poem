@@ -26,4 +26,11 @@ gucci
 67
 78
 89
-90
+9
+y ho hey
+ha 
+ni 
+nk 
+ml 
+as
+
